@@ -1,0 +1,7 @@
+streamlit
+json
+pandas
+snowflake.core
+snowflake.snowpark.context
+snowflake-ml-python
+snowflake-snowpark-python
