@@ -1,7 +1,12 @@
+# Frontend & dotenv
 streamlit
-json
+python-dotenv
+
+# Conexión a Snowflake
+snowflake-connector-python
+
+# Para procesamiento con Snowpark
+snowflake-snowpark-python[pandas]
+
+# Manejo de datos
 pandas
-snowflake.core
-snowflake.snowpark.context
-snowflake-ml-python
-snowflake-snowpark-python
